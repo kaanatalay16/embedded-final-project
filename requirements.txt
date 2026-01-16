@@ -1,0 +1,26 @@
+# EE 4065 - Embedded Digital Image Processing
+# Python dependencies for training models
+
+# Core
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# TensorFlow ecosystem
+tensorflow>=2.10.0
+tensorflow-lite>=2.10.0
+
+# YOLO training
+ultralytics>=8.0.0
+
+# Data processing
+pyyaml>=6.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+
+# Serial communication with ESP32
+pyserial>=3.5
+
+# Jupyter support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
